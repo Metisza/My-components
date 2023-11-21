@@ -1,2 +1,2 @@
 # My-components
- Projeto desenvolvido juntamente no curso de Web Designer da Serliv
+ Projeto desenvolvido durante o curso de Web Designer da Serliv.
